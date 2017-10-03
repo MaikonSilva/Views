@@ -81,5 +81,35 @@
 
     </LinearLayout>
 
+    <TextView
+        android:layout_marginTop="17dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Graphics Mode"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Font Type"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fonte Size"
+        android:textSize="15dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp">
+
+
+
+
+    </LinearLayout>
 
 </LinearLayout>
